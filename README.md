@@ -13,7 +13,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Qiskit](https://img.shields.io/badge/Qiskit-0.44%2B-purple?logo=ibm)](https://qiskit.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?logo=pytorch)](https://pytorch.org)
-[![Stars](https://img.shields.io/github/stars/specter-medsec/SPECTER?style=social)](https://github.com/specter-medsec/SPECTER)
+
 
 ---
 
